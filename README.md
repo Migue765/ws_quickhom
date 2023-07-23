@@ -1,2 +1,2 @@
 # ws_quickhom
-Web scraping para obteción de ofertas de inmubles
+Web scraping para obtención de ofertas de inmubles
